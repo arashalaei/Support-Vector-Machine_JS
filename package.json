@@ -1,0 +1,17 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node Main"
+  },
+  "keywords": [],
+  "author": "Arash Alaei",
+  "license": "ISC",
+  "dependencies": {
+    "danfojs-node": "^0.2.2",
+    "libsvm-js": "^0.2.1",
+    "ml-confusion-matrix": "^0.4.0"
+  }
+}
